@@ -1,4 +1,4 @@
-# -shortest-common-superstring
+# shortest-common-superstring
 
 Application of a greedy heuristic to the shortest common superstring problem (SCS): Given a set of strings, find the
 shortest string such that every input string is a substring of the generated string. This problem has applications in data
